@@ -20,6 +20,7 @@
       <button @click="resetSelection">Reset Pilihan</button>
     </div>
   </div>
+  
 </template>
 
 <script>
